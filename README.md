@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm currently **Research Fellow** on *Machine Learning and Data Science* at *Marche Polytechnic University*.
-- 🧠 I'm also the founder of **NEURALAB** (@neuralab_it) 
+- 🧠 I'm also co-founder of **NEURALAB** (@neuralab_it) 
 - 📫 More about me: [biuni.it](https://biuni.it)
 - 💬 Write me on: [info@biuni.it](info@biuni.it)
 
