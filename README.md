@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-- 🌱 I'm currently **Research Fellow** and **PhD Student** on *Machine Learning and Data Science* at *Marche Polytechnic University*.
-- 🧠 I'm also co-founder of **NEURALAB** (@neuralab_it) 
-- 📫 More about me: [biuni.it](https://biuni.it)
-- 💬 Write me on: [info@biuni.it](info@biuni.it)
+
+I'm currently:
+- 🧠 **Research Fellow** and **PhD Student** at *Marche Polytechnic University ([UnivPM](https://www.univpm.it/Entra/))*
+- 🛰️ **Research Associate** at *National Institute for Nuclear Physics ([INFN](https://home.infn.it/it/))*
+- 💎 **Co-founder** and **CTO** of *NEXIST* ([nexist.it](https://nexist.it))
+
+-----
+  
+- 📫 If you want to know more about me, visit [biuni.it](https://biuni.it)
+- 💬 If you want to contact me, write to: [info@biuni.it](info@biuni.it)
+
+-----
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biuni&show_icons=true&theme=vue-dark">
