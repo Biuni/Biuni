@@ -2,8 +2,7 @@
 
 
 I'm currently:
-- 🧠 **Research Fellow** and **PhD Student** at *Marche Polytechnic University ([UnivPM](https://www.univpm.it/Entra/))*
-- 🛰️ **Research Associate** at *National Institute for Nuclear Physics ([INFN](https://home.infn.it/it/))*
+- 🧠 **Assistant Professor** at *Marche Polytechnic University ([UnivPM](https://www.univpm.it/Entra/))*
 - 💎 **Co-founder** and **CTO** of *NEXIST* ([nexist.it](https://nexist.it))
 
 -----
